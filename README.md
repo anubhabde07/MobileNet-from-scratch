@@ -13,5 +13,3 @@ Compared to standard CNNs, this design significantly reduces:
 - Number of parameters
 - Floating point operations (FLOPs)
 - Memory usage
-
-This makes the model suitable for **mobile and edge devices**.
